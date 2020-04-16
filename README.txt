@@ -1,4 +1,3 @@
-#HyperCrypt
 Encryption Options
 Encryption algorithm used: AES-256
 
